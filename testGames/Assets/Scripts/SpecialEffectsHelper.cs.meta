@@ -1,11 +1,11 @@
 fileFormatVersion: 2
 guid: 9dd528dc823154d4fbebb0dcbf4f2e15
-timeCreated: 1468074162
+timeCreated: 1468927883
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
-  - soulEffect: {fileID: 19839878, guid: 98423b7c689c21b4fa406af9df5d5578, type: 2}
+  - soulEffect: {instanceID: 0}
   - soulEnemyEffect: {fileID: 19821106, guid: 5220cf9cd8b7414498e7c5ac9c7bbf7a, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}

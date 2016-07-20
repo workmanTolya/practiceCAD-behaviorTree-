@@ -5,7 +5,6 @@ using System;
 public class SpecialEffectsHelper : MonoBehaviour {
 
     public static SpecialEffectsHelper Instance;
-    public ParticleSystem soulEffect;
     public ParticleSystem soulEnemyEffect;
 
     void Awake()
@@ -20,7 +19,7 @@ public class SpecialEffectsHelper : MonoBehaviour {
     public void Explosion( Vector3 position)
     {
 
-            instantiate(soulEffect, position);
+            instantiate(soulEnemyEffect, position);
 
     }
 
