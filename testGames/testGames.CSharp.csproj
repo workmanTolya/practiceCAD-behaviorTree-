@@ -63,27 +63,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ActionNode.cs" />
     <Compile Include="Assets\Scripts\CursorScript.cs" />
     <Compile Include="Assets\Scripts\CursorTankBehavior.cs" />
     <Compile Include="Assets\Scripts\FinishScript.cs" />
     <Compile Include="Assets\Scripts\GameOverScript.cs" />
     <Compile Include="Assets\Scripts\ITankBehavior.cs" />
-    <Compile Include="Assets\Scripts\InverterNode.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
     <Compile Include="Assets\Scripts\MoveScript.cs" />
-    <Compile Include="Assets\Scripts\Node.cs" />
-    <Compile Include="Assets\Scripts\NodeStatus.cs" />
-    <Compile Include="Assets\Scripts\ParentNode.cs" />
     <Compile Include="Assets\Scripts\RenderScript.cs" />
-    <Compile Include="Assets\Scripts\SelectorNode.cs" />
-    <Compile Include="Assets\Scripts\SequenceNode.cs" />
     <Compile Include="Assets\Scripts\ShotScript.cs" />
     <Compile Include="Assets\Scripts\SoundEffectsHelper.cs" />
     <Compile Include="Assets\Scripts\SpecialEffectsHelper.cs" />
     <Compile Include="Assets\Scripts\TankScript.cs" />
-    <Compile Include="Assets\Scripts\TimeData.cs" />
-    <Compile Include="Assets\Scripts\TreeCreation.cs" />
     <Compile Include="Assets\Scripts\TreeTankBehavior.cs" />
     <Compile Include="Assets\Scripts\WeaponScript.cs" />
   </ItemGroup>
